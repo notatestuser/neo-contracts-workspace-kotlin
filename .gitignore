@@ -1,0 +1,12 @@
+workspace.xml
+.idea
+.vscode
+.project
+.classpath
+.settings
+target
+vendor/*.jar
+*.avm
+.mvn-home
+.mvn-repo
+
