@@ -12,7 +12,7 @@
    <properties>
       <kotlin.version>1.1.4</kotlin.version>
       <kotlin.compiler.jvmTarget>1.6</kotlin.compiler.jvmTarget>
-      <junit.version>4.12</junit.version>
+      <junit.version>4.13.1</junit.version>
       <main.class>contracts.Contract</main.class>
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
    </properties>
